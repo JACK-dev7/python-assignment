@@ -1,0 +1,6 @@
+[tool.pycodestyle]
+max-line-length = 79
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
